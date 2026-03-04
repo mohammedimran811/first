@@ -1,3 +1,5 @@
 hiiii hello
 hiiiiiiii hloooo too 
-yeahhhhh
+yeah
+
+origin = git remote add origin https://github.com/mohammedimran811/first.git
